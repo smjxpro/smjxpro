@@ -18,7 +18,7 @@ Software Engineer during the day, Learner at night.</h3>
 
 - 📝 I regularly write articles on [https://smj.xyz](https://smj.xyz)
 
-- 💬 Ask me about **.NET, Java, Flutter, Angular, Docker**
+- 💬 Ask me about **.NET, Flutter, Angular, Docker**
 
 - 📫 How to reach me **smjxpro@gmail.com**
 
