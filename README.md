@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Prohelika.SPACE](https://prohelika.space)
 
-- 🌱 I’m currently learning **WebAssembly, Astronomy - State of the Art**
+- 🌱 I’m currently learning **WebAssembly, Astronomy - State of the Art, Quantum Computing, Q#, Machine Learning, ML.NET**
 
 - 👯 I’m looking to collaborate on [Prohelika.SPACE](https://prohelika.space)
 
