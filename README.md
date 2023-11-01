@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/smjxpro" target="blank"><img src="https://img.shields.io/twitter/follow/smjxpro?logo=twitter&style=for-the-badge" alt="smjxpro" /></a> </p>
 
-- 🔭 I’m currently working on [Prohelika.SPACE](https://prohelika.space)
+- 🔭 I’m currently working on [oggato.com](https://oggato.com)
 
 - 🌱 I’m currently learning **WebAssembly, Astronomy - State of the Art, Quantum Computing, Q#, Machine Learning, ML.NET**
 
-- 👯 I’m looking to collaborate on [Prohelika.SPACE](https://prohelika.space)
+- 👯 I’m looking to collaborate on [oggato.com](https://oggato.com)
 
-- 🤝 I’m looking for help with [Prohelika.SPACE](https://prohelika.space)
+- 🤝 I’m looking for help with [oggato.com](https://oggato.com)
 
 - 👨‍💻 All of my projects are available at [https://smj.xyz](https://smj.xyz)
 
