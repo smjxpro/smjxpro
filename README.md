@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **.NET, Flutter, Docker**
 
-- 📫 How to reach me **smjxpro@gmail.coom**
+- 📫 How to reach me **smjxpro@gmail.com**
 
 - 📄 Know about my experiences [https://smj.xyz](https://smj.xyz)
 
