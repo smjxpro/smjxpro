@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://smj.xyz](https://smj.xyz)
 
-- 💬 Ask me about **.NET, Flutter, Docker**
+- 💬 Ask me about **.NET, Flutter, Angular, Docker**
 
 - 📫 How to reach me **smjxpro@gmail.com**
 
