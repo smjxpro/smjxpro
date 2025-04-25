@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/smjxpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smjxpro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smjxpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smjxpro" height="30" width="40" /></a>
-<a href="https://fb.com/smjxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smjxyz" height="30" width="40" /></a>
+<a href="https://fb.com/smjxpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smjxyz" height="30" width="40" /></a>
 <a href="https://instagram.com/smjxpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smjxpro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@smjxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smjxyz" height="30" width="40" /></a>
 <a href="/https://smj.xyz/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://smj.xyz/rss.xml" height="30" width="40" /></a>
