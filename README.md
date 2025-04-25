@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **smjxpro@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oCMQKYZKdqE3oi2xACimB5fLwKZhuMY2vzPVTyYCr7w/edit?usp=sharing](https://docs.google.com/document/d/1oCMQKYZKdqE3oi2xACimB5fLwKZhuMY2vzPVTyYCr7w/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XR4kodLBvDLpMBXLbbfo9WQIVAFAVydE_kmiDHgWHXc/edit?tab=t.0#heading=h.e8um2pxl5iya)
 
 - ⚡ Fun fact **I am a talkative introvert**
 
