@@ -23,11 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [প্রোগ্রামিং চিন্তন – ১](https://oggato.com/%e0%a6%aa%e0%a6%b0%e0%a6%97%e0%a6%b0%e0%a6%ae-%e0%a6%9a%e0%a6%a8%e0%a6%a4%e0%a6%a8-%e0%a7%a7/)
-- [REST API রেসপন্সের শেপ নিয়ে যতো সমস্যা](https://oggato.com/rest-api-%e0%a6%b0%e0%a7%87%e0%a6%b8%e0%a6%aa%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a7%87%e0%a6%b0-%e0%a6%b6%e0%a7%87%e0%a6%aa-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%af%e0%a6%a4%e0%a7%8b/)
-- [প্রতিপদার্থ, সময়ের বিপরীতমুখীতা এবং আয়না মহাবিশ্ব](https://oggato.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4%e0%a6%bf%e0%a6%aa%e0%a6%a6%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a6%b0/)
-- [আমাদের সুপরিচিত দুইটি মহান তত্ত্ব হয়তোবা ভুল](https://oggato.com/%e0%a6%86%e0%a6%ae%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a7%81%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a6%bf%e0%a6%a4-%e0%a6%a6%e0%a7%81%e0%a6%87%e0%a6%9f%e0%a6%bf-%e0%a6%ae%e0%a6%b9/)
-- [কনসাশনেস এবং অস্তিত্ব কথন](https://oggato.com/%e0%a6%95%e0%a6%a8%e0%a6%b8%e0%a6%be%e0%a6%b6%e0%a6%a8%e0%a7%87%e0%a6%b8-%e0%a6%8f%e0%a6%ac%e0%a6%82-%e0%a6%85%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%ac-%e0%a6%95%e0%a6%a5/)
+- [টুকুন আর তার স্বপ্ন](https://smj.xyz/blog/%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8/)
+- [ফ্লাটারে কোন স্টেট ম্যানেজমেন্ট সল্যুশন ভালো?](https://smj.xyz/blog/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%9F-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%B8%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B6%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
