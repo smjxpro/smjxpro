@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Rust, WebAssembly, Q#, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [smj.xyz](smj.xyz)
+- 👨‍💻 All of my projects are available at [smj.xyz](https://smj.xyz)
 
-- 📝 I regularly write articles on [smj.xyz](smj.xyz)
+- 📝 I regularly write articles on [smj.xyz](https://smj.xyz)
 
 - 💬 Ask me about **.NET, Flutter, Docker**
 
